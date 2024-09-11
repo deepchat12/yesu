@@ -16,3 +16,10 @@
     width: 110%;
   }
 }
+
+@media (min-width: 768px) {
+  .navbar-right {
+      float: right !important;
+      margin-right: 206px;
+  }
+}

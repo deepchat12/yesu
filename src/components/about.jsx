@@ -33,6 +33,7 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
+                <p>{props.data ? props.data.para1 : "loading..."}</p>
               </div>
             </div>
           </div>

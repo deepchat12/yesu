@@ -1,22 +1,19 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to AP Steel Detailing!",
+    "paragraph": "Making fabrication and erection seamless."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to AP Steel Detailing, where precision meets excellence in steel detailing. With years of experience and a team of dedicated professionals, we are committed to delivering top-quality steel detailing services that cater to the unique needs of fabricators, contractors, and construction companies.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise: Our team consists of experienced professionals who are well-versed in the latest industry standards and technologies.",
+      "Quality: We are committed to delivering high-quality detailing services that meet the highest standards of accuracy and reliability."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+      "Timeliness: We understand the importance of deadlines and strive to deliver our services on time, every time.",
+      "Customer Focus: Your satisfaction is our priority. We work closely with you to understand your needs and provide tailored solutions that meet your specific requirements."
+    ],
+    "para1": "At AP Steel Detailing, we are dedicated to helping you achieve your construction goals with precision and efficiency. Contact us today to learn more about our steel detailing services and how we can assist you in your next project."
   },
   "Gallery": [
     {
@@ -68,33 +65,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Shop Drawings",
+      "text": "We produce detailed shop drawings that include all necessary information for fabrication and assembly, ensuring accuracy and ease of use."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Erection Drawings",
+      "text": "Our erection drawings guide the installation process, helping to streamline construction and minimize errors."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "3D Modeling",
+      "text": "Using Tekla Structures, we create detailed models that help visualize the project and identify potential issues."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Material Take Off Service",
+      "text": "We provide comprehensive material take off services to ensure accurate estimation and procurement of materials."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Material Lists and Reports",
+      "text": "We generate precise material lists and reports to aid in planning and procurement, ensuring efficient project management."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Coordination and Collaboration",
+      "text": "We work closely with architects, engineers, and other trades to ensure seamless integration and successful project outcomes."
     }
   ],
   "Testimonials": [
